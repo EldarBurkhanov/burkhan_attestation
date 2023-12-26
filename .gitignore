@@ -2,5 +2,8 @@
 # Pytest cahche
 __pycache__/
 
+# Allure output
+allure_dir/
+
 # Compiled files
 *.pyc
