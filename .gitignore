@@ -1,0 +1,6 @@
+
+# Pytest cahche
+__pycache__/
+
+# Compiled files
+*.pyc
